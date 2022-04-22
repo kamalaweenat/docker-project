@@ -20,7 +20,7 @@ test.
 
 First of all clone the project to your local file system:
 
-`$ https://github.com/kamalaweenat/docker-project.git`
+`$ git clone https://github.com/kamalaweenat/docker-project.git`
 
 In your terminal run the script file - install_env.sh
 
