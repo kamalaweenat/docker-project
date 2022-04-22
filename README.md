@@ -18,7 +18,7 @@ test.
 
 ***How to run it:***
 
-Fist of all clone the project to your local file system:
+First of all clone the project to your local file system:
 
 `$ https://github.com/kamalaweenat/docker-project.git`
 
